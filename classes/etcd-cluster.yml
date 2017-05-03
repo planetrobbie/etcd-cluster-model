@@ -11,3 +11,9 @@ parameters:
       - host: 10.0.0.11
         name: etcd-01
         port: 4001
+      - host: 10.0.0.12
+        name: etcd-02
+        port: 4001
+      - host: 10.0.0.13
+        name: etcd-03
+        port: 4001
